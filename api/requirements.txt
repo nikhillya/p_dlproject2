@@ -1,0 +1,14 @@
+tensorflow==2.16.1
+fastapi
+uvicorn
+python-multipart
+pillow
+tensorflow-serving-api==2.16.1
+matplotlib
+numpy
+
+
+
+please give me small points as a exam point of view
+
+Agile Development and UI/UX design
